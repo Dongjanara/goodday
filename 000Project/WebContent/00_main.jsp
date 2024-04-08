@@ -19,7 +19,7 @@
 <link rel="stylesheet" href="./style/footer.css">
 
 <meta charset="UTF-8">
-<title>여기,좋은데이</title>
+<title>여기,좋은데이</title> 
 
 
 </head>
